@@ -5,8 +5,8 @@
 | :--- | :--- |
 | `CAIXAELETRONICA` | Projeto Prático de simulação de um caixa eletrônico (saque, depósito, consulta). |
 | `CALCULADORA` | Implementação de operações aritméticas básicas em COBOL. |
-| `HELLO` | Primeiros programas. | 
-| `MATRIZES` | Exercícios específicos sobre a manipulação e iteração em estruturas de dados complexas. | 
+| `HELLO` | Primeiro programa. | 
+| `MATRIZES` | Exercícios específicos sobre a manipulação e iteração em estruturas de dados complexos. | 
 | `VARIAVEIS` | Exploração da armazenamento. |
 
 ---
