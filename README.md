@@ -1,4 +1,4 @@
-# Exercícios Práticos em COBOL
+# Exercícios práticos em COBOL
 > Repositório dedicado ao estudo prático da linguagem COBOL, com foco na compreensão de sua aplicação em mainframes e sistemas legados.
 
 | Diretório | Descrição |
